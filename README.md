@@ -101,7 +101,7 @@ WorkingHourStrategy
 
 HourlyWorkingHourStrategy
 
-🛠 Kullanılan Teknolojiler
+Kullanılan Teknolojiler
 
 Java (JDK 17+)
 
