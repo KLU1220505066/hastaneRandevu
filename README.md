@@ -11,6 +11,8 @@ Sistem; Hasta ve Doktor kullanıcı rollerini destekler ve randevu alma, yönetm
 ![Sequence Diagram](https://github.com/user-attachments/assets/7ce62b03-dc91-413e-97d8-06463e1167bf)
 ![ER Diagram](https://github.com/user-attachments/assets/69d52919-d856-43f9-953d-b2a5ae5db22f)
 ![Use Case Diagram](https://github.com/user-attachments/assets/e8aaec1b-f7e5-4c01-898d-ff210feb3bc9)
+![class_abstracts_and_patterns png](https://github.com/user-attachments/assets/8d1acba1-ea45-4e9d-9d47-1f0f3cd17cd1)
+
 
 ## Proje Özellikleri
 
