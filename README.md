@@ -192,5 +192,36 @@ Arayüz: Java Swing
 
 📄 Lisans
 
+![class_user_patient_doctor png](https://github.com/user-attachments/assets/2eb7a1c6-3671-4c58-99df-608fc715f069)
+
+![sequence_hasta_randevu png](https://github.com/user-attachments/assets/7ce62b03-dc91-413e-97d8-06463e1167bf)
+
+![er_hastane_randevu png](https://github.com/user-attachments/assets/69d52919-d856-43f9-953d-b2a5ae5db22f)
+
+![use_case_hastane_randevu png](https://github.com/user-attachments/assets/e8aaec1b-f7e5-4c01-898d-ff210feb3bc9)
+
+![class_abstracts_and_patterns png](https://github.com/user-attachments/assets/94e93cce-2590-4c29-b2a8-d292c9540034)
+
+
+
+
+
+
+
+
+
+
+
 Bu proje eğitim amaçlıdır ve serbestçe geliştirilebilir.
+
+Alp Erin Şenel 1220505066 -- https://github.com/KLU1220505066/hastaneRandevu/tree/main
+
+Kerem Yalın Taşkın 5210505028 --  https://github.com/keremyalintaskin/hastahane_randevu_sistemi
+
+Arda Işık 5210505028 -- https://github.com/5210505058/hastane_randevu_sistemi
+
+
+
+
+
 
