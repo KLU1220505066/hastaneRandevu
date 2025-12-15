@@ -193,5 +193,4 @@ Arayüz: Java Swing
 📄 Lisans
 
 Bu proje eğitim amaçlıdır ve serbestçe geliştirilebilir.
-message.txt
-4 KB
+
